@@ -1,0 +1,2648 @@
+tree= 1, node=  1, feature=12, thr= 35.29, gain=0.466267
+
+tree= 1, node=  2, feature= 4, thr= 96.53, gain=0.349658
+
+tree= 1, node=  3, feature= 2, thr= 98.04, gain=0.408999
+
+tree= 1, node=  4, feature= 6, thr= 71.06, gain=0.597131
+
+tree= 1, node=  5, feature=10, thr= 33.35, gain=0.662826
+
+tree= 1, node=  6, feature=15, thr= 98.04, gain=0.399265
+
+tree= 1, node=  7, feature=14, thr= 60.78, gain=0.819294
+
+tree= 1, node=  8, feature=15, thr= 47.06, gain=0.469430
+
+tree= 1, node=  9, feature=10, thr= 37.43, gain=0.234399
+
+tree= 1, node= 10, feature=11, thr= 35.29, gain=0.307247
+
+tree= 1, node= 11, feature=16, thr=  6.43, gain=0.089299
+
+tree= 1, node= 12, feature= 8, thr= 47.06, gain=0.881814
+
+tree= 1, node= 13, feature= 2, thr= 67.25, gain=0.292814
+
+tree= 1, node= 14, feature= 5, thr= 35.29, gain=0.306374
+
+tree= 1, node= 15, feature= 6, thr= 34.82, gain=0.299387
+
+tree= 1, node= 16, feature= 6, thr= 61.31, gain=0.111700
+
+tree= 1, node= 17, feature= 3, thr= 52.94, gain=0.456562
+
+tree= 1, node= 18, feature= 4, thr= 87.53, gain=0.260793
+
+tree= 1, node= 19, feature= 5, thr= 45.10, gain=0.249250
+
+tree= 1, node= 20, feature= 1, thr= 54.90, gain=0.409945
+
+tree= 1, node= 21, feature= 1, thr= 11.76, gain=0.702803
+
+tree= 1, node= 22, feature= 3, thr= 86.41, gain=0.157356
+
+tree= 1, node= 23, feature= 2, thr= 88.39, gain=0.250532
+
+tree= 1, node= 24, feature=12, thr= 78.67, gain=0.191063
+
+tree= 1, node= 25, feature= 5, thr= 35.29, gain=0.274616
+
+tree= 1, node= 26, feature=16, thr=  1.96, gain=0.892121
+
+tree= 1, node= 27, feature= 8, thr= 15.69, gain=0.316062
+
+tree= 1, node= 28, feature=14, thr= 49.41, gain=0.031802
+
+tree= 1, node= 29, feature=14, thr= 22.35, gain=0.374261
+
+tree= 1, node= 30, feature=12, thr= 67.37, gain=0.059879
+
+tree= 1, node= 31, feature= 1, thr= 54.90, gain=0.371625
+
+tree= 1, node= 32, feature= 6, thr= 49.47, gain=0.033296
+
+tree= 1, node= 33, feature= 5, thr= 47.06, gain=0.530224
+
+tree= 1, node= 34, feature= 7, thr= 33.33, gain=0.876716
+
+tree= 1, node= 35, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 36, feature=10, thr= 26.12, gain=0.143741
+
+tree= 1, node= 37, feature= 8, thr= 51.04, gain=0.269175
+
+tree= 1, node= 38, feature=10, thr= 53.22, gain=0.426593
+
+tree= 1, node= 39, feature=16, thr= 12.94, gain=0.666706
+
+tree= 1, node= 40, feature= 3, thr= 33.33, gain=0.045760
+
+tree= 1, node= 41, feature=13, thr= 45.10, gain=0.069191
+
+tree= 1, node= 42, feature= 3, thr= 27.24, gain=0.129612
+
+tree= 1, node= 43, feature= 7, thr= 34.59, gain=0.862068
+
+tree= 1, node= 44, feature= 6, thr= 86.24, gain=0.120379
+
+tree= 1, node= 45, feature= 3, thr= 96.18, gain=0.089385
+
+tree= 1, node= 46, feature=15, thr= 25.67, gain=0.134332
+
+tree= 1, node= 47, feature=16, thr= 21.67, gain=0.128405
+
+tree= 1, node= 48, feature=16, thr= 52.94, gain=0.220336
+
+tree= 1, node= 49, feature=11, thr= 97.57, gain=0.136396
+
+tree= 1, node= 50, feature=13, thr= 45.10, gain=0.025842
+
+tree= 1, node= 51, feature=13, thr= 68.63, gain=0.075565
+
+tree= 1, node= 52, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 53, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 54, feature= 1, thr= 12.35, gain=0.026465
+
+tree= 1, node= 55, feature=15, thr=100.00, gain=0.000000
+
+tree= 1, node= 56, feature=16, thr=  0.31, gain=0.021387
+
+tree= 1, node= 57, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 58, feature= 8, thr= 96.29, gain=0.101924
+
+tree= 1, node= 59, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 60, feature= 6, thr= 31.33, gain=0.044779
+
+tree= 1, node= 61, feature= 5, thr= 34.08, gain=0.611061
+
+tree= 1, node= 62, feature= 6, thr= 47.24, gain=0.111414
+
+tree= 1, node= 63, feature=10, thr=  1.33, gain=0.129253
+
+tree= 1, node= 64, feature= 6, thr= 44.29, gain=0.041608
+
+tree= 1, node= 65, feature= 8, thr= 35.76, gain=0.162108
+
+tree= 1, node= 66, feature=11, thr= 84.78, gain=0.139964
+
+tree= 1, node= 67, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 68, feature= 8, thr= 21.96, gain=0.777544
+
+tree= 1, node= 69, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 70, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 71, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 72, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 73, feature=12, thr=  0.41, gain=0.253448
+
+tree= 1, node= 74, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 75, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 76, feature= 8, thr= 85.33, gain=0.189002
+
+tree= 1, node= 77, feature= 7, thr= 54.90, gain=0.296641
+
+tree= 1, node= 78, feature=15, thr= 98.73, gain=0.095431
+
+tree= 1, node= 79, feature=11, thr=  0.69, gain=0.157091
+
+tree= 1, node= 80, feature= 6, thr= 72.82, gain=0.137060
+
+tree= 1, node= 81, feature= 3, thr= 56.86, gain=0.572581
+
+tree= 1, node= 82, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 83, feature= 2, thr= 82.59, gain=0.294691
+
+tree= 1, node= 84, feature=14, thr= 50.00, gain=0.539206
+
+tree= 1, node= 85, feature= 6, thr= 69.53, gain=0.247877
+
+tree= 1, node= 86, feature=15, thr= 45.10, gain=0.309079
+
+tree= 1, node= 87, feature= 4, thr= 99.06, gain=0.026882
+
+tree= 1, node= 88, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 89, feature=12, thr= 21.24, gain=0.467433
+
+tree= 1, node= 90, feature=16, thr= 21.24, gain=0.022961
+
+tree= 1, node= 91, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 92, feature=16, thr= 10.02, gain=0.038323
+
+tree= 1, node= 93, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 94, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 95, feature=11, thr= 84.31, gain=0.568158
+
+tree= 1, node= 96, feature= 6, thr= 21.33, gain=0.199773
+
+tree= 1, node= 97, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 98, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node= 99, feature=14, thr= 39.24, gain=0.185455
+
+tree= 1, node=100, feature=16, thr=  2.90, gain=0.165064
+
+tree= 1, node=101, feature=16, thr= 10.16, gain=0.088880
+
+tree= 1, node=102, feature= 5, thr= 57.04, gain=0.047836
+
+tree= 1, node=103, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=104, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=105, feature=14, thr= 72.33, gain=0.927159
+
+tree= 1, node=106, feature=10, thr= 83.24, gain=0.072938
+
+tree= 1, node=107, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=108, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=109, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=110, feature=13, thr= 94.90, gain=0.280857
+
+tree= 1, node=111, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=112, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=113, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=114, feature= 7, thr= 84.78, gain=0.382720
+
+tree= 1, node=115, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=116, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=117, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=118, feature= 7, thr= 55.02, gain=0.137099
+
+tree= 1, node=119, feature=10, thr=  2.90, gain=0.087281
+
+tree= 1, node=120, feature= 2, thr=100.00, gain=0.000000
+
+tree= 1, node=121, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=122, feature= 1, thr= 62.75, gain=0.100001
+
+tree= 1, node=123, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=124, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=125, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=126, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=127, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=128, feature=11, thr= 72.55, gain=0.483229
+
+tree= 1, node=129, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=130, feature= 9, thr= 67.47, gain=0.434973
+
+tree= 1, node=131, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=132, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=133, feature= 4, thr= 98.06, gain=0.006335
+
+tree= 1, node=134, feature=15, thr= 96.24, gain=0.093740
+
+tree= 1, node=135, feature=11, thr= 29.67, gain=0.017949
+
+tree= 1, node=136, feature=14, thr= 31.22, gain=0.090052
+
+tree= 1, node=137, feature= 4, thr= 99.02, gain=0.056744
+
+tree= 1, node=138, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=139, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=140, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=141, feature=13, thr= 50.98, gain=0.038785
+
+tree= 1, node=142, feature= 9, thr= 28.47, gain=0.040679
+
+tree= 1, node=143, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=144, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=145, feature= 4, thr=100.00, gain=0.000000
+
+tree= 1, node=146, feature= 1, thr= 64.71, gain=0.722309
+
+tree= 1, node=147, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=148, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=149, feature=16, thr=  0.12, gain=0.033597
+
+tree= 1, node=150, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=151, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=152, feature=13, thr= 44.24, gain=0.033464
+
+tree= 1, node=153, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=154, feature= 5, thr= 64.71, gain=0.629593
+
+tree= 1, node=155, feature= 9, thr= 70.24, gain=0.489541
+
+tree= 1, node=156, feature=12, thr= 52.08, gain=0.050727
+
+tree= 1, node=157, feature=13, thr= 67.37, gain=0.096976
+
+tree= 1, node=158, feature=10, thr= 70.16, gain=0.013460
+
+tree= 1, node=159, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=160, feature= 2, thr= 79.61, gain=0.086306
+
+tree= 1, node=161, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=162, feature= 7, thr= 70.59, gain=0.543266
+
+tree= 1, node=163, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=164, feature= 7, thr= 72.55, gain=0.815355
+
+tree= 1, node=165, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=166, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=167, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=168, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=169, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=170, feature= 9, thr= 83.39, gain=0.016009
+
+tree= 1, node=171, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=172, feature=11, thr= 68.63, gain=0.086162
+
+tree= 1, node=173, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=174, feature= 1, thr= 18.90, gain=0.111396
+
+tree= 1, node=175, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=176, feature= 4, thr= 78.06, gain=0.288593
+
+tree= 1, node=177, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=178, feature= 3, thr= 25.88, gain=0.013729
+
+tree= 1, node=179, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=180, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=181, feature= 1, thr= 30.12, gain=0.042402
+
+tree= 1, node=182, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=183, feature= 7, thr= 28.24, gain=0.101067
+
+tree= 1, node=184, feature=16, thr=  0.22, gain=0.057226
+
+tree= 1, node=185, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=186, feature= 9, thr= 53.86, gain=0.089832
+
+tree= 1, node=187, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=188, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=189, feature= 3, thr= 19.41, gain=0.044997
+
+tree= 1, node=190, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=191, feature=12, thr= 22.65, gain=0.209128
+
+tree= 1, node=192, feature= 2, thr= 79.73, gain=0.245806
+
+tree= 1, node=193, feature=11, thr= 34.02, gain=0.021159
+
+tree= 1, node=194, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=195, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=196, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=197, feature=12, thr=  3.43, gain=0.163482
+
+tree= 1, node=198, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=199, feature=10, thr= 23.22, gain=0.218441
+
+tree= 1, node=200, feature= 6, thr= 62.45, gain=0.117595
+
+tree= 1, node=201, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=202, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=203, feature= 1, thr= 93.10, gain=0.264460
+
+tree= 1, node=204, feature=14, thr= 14.12, gain=0.045036
+
+tree= 1, node=205, feature=11, thr= 20.75, gain=0.230710
+
+tree= 1, node=206, feature= 7, thr= 23.53, gain=0.192869
+
+tree= 1, node=207, feature= 1, thr= 58.82, gain=0.554901
+
+tree= 1, node=208, feature=11, thr= 87.14, gain=0.067249
+
+tree= 1, node=209, feature=15, thr=  6.37, gain=0.042542
+
+tree= 1, node=210, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=211, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=212, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=213, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=214, feature= 4, thr= 65.69, gain=0.371384
+
+tree= 1, node=215, feature= 9, thr= 54.90, gain=0.057144
+
+tree= 1, node=216, feature= 8, thr=  1.06, gain=0.158112
+
+tree= 1, node=217, feature=16, thr= 95.20, gain=0.339637
+
+tree= 1, node=218, feature=12, thr= 83.12, gain=0.024407
+
+tree= 1, node=219, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=220, feature= 7, thr= 11.18, gain=0.023877
+
+tree= 1, node=221, feature= 5, thr= 21.04, gain=0.206970
+
+tree= 1, node=222, feature=12, thr= 48.47, gain=0.575890
+
+tree= 1, node=223, feature=15, thr=  1.90, gain=0.157910
+
+tree= 1, node=224, feature= 5, thr= 68.63, gain=0.059359
+
+tree= 1, node=225, feature=13, thr= 78.12, gain=0.044261
+
+tree= 1, node=226, feature=13, thr= 54.47, gain=0.191134
+
+tree= 1, node=227, feature=14, thr= 17.63, gain=0.017728
+
+tree= 1, node=228, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=229, feature= 2, thr= 99.02, gain=0.001495
+
+tree= 1, node=230, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=231, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=232, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=233, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=234, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=235, feature= 3, thr= 26.76, gain=0.044224
+
+tree= 1, node=236, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=237, feature=12, thr= 28.67, gain=0.039352
+
+tree= 1, node=238, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=239, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=240, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=241, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=242, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=243, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=244, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=245, feature= 6, thr= 60.61, gain=0.066573
+
+tree= 1, node=246, feature= 5, thr= 53.41, gain=0.211981
+
+tree= 1, node=247, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=248, feature= 2, thr= 73.39, gain=0.161903
+
+tree= 1, node=249, feature=15, thr= 98.94, gain=0.133193
+
+tree= 1, node=250, feature=15, thr= 98.90, gain=0.166896
+
+tree= 1, node=251, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=252, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=253, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=254, feature= 5, thr= 97.33, gain=0.038772
+
+tree= 1, node=255, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=256, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=257, feature= 9, thr= 27.45, gain=0.077928
+
+tree= 1, node=258, feature= 5, thr= 96.08, gain=0.176123
+
+tree= 1, node=259, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=260, feature=15, thr=  8.82, gain=0.003393
+
+tree= 1, node=261, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=262, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=263, feature= 8, thr= 58.59, gain=0.587897
+
+tree= 1, node=264, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=265, feature= 5, thr= 79.18, gain=0.094300
+
+tree= 1, node=266, feature= 4, thr=100.00, gain=0.000000
+
+tree= 1, node=267, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=268, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=269, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=270, feature= 5, thr= 56.86, gain=0.678044
+
+tree= 1, node=271, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=272, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=273, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=274, feature= 3, thr= 56.29, gain=0.013535
+
+tree= 1, node=275, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=276, feature= 3, thr= 45.94, gain=0.067670
+
+tree= 1, node=277, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=278, feature=11, thr= 97.25, gain=0.167208
+
+tree= 1, node=279, feature= 7, thr= 14.71, gain=0.098235
+
+tree= 1, node=280, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=281, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=282, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=283, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=284, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=285, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=286, feature=11, thr= 25.06, gain=0.251538
+
+tree= 1, node=287, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=288, feature= 6, thr= 96.63, gain=0.333347
+
+tree= 1, node=289, feature= 8, thr= 99.49, gain=0.123509
+
+tree= 1, node=290, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=291, feature= 3, thr= 76.47, gain=0.109564
+
+tree= 1, node=292, feature= 5, thr= 43.18, gain=0.080612
+
+tree= 1, node=293, feature=10, thr= 57.84, gain=0.208181
+
+tree= 1, node=294, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=295, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=296, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=297, feature= 9, thr= 99.06, gain=0.008126
+
+tree= 1, node=298, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=299, feature=10, thr= 27.47, gain=0.113274
+
+tree= 1, node=300, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=301, feature=13, thr= 63.59, gain=0.042904
+
+tree= 1, node=302, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=303, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=304, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=305, feature=13, thr= 46.86, gain=0.206729
+
+tree= 1, node=306, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=307, feature=11, thr=  0.00, gain=0.000000
+
+tree= 1, node=308, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=309, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=310, feature= 6, thr= 81.24, gain=0.015958
+
+tree= 1, node=311, feature=13, thr= 50.82, gain=0.443346
+
+tree= 1, node=312, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=313, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=314, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=315, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=316, feature= 4, thr= 99.06, gain=0.009117
+
+tree= 1, node=317, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=318, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=319, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=320, feature= 1, thr= 43.92, gain=0.082700
+
+tree= 1, node=321, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=322, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=323, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=324, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=325, feature= 3, thr= 67.31, gain=0.130921
+
+tree= 1, node=326, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=327, feature= 7, thr= 71.59, gain=0.178010
+
+tree= 1, node=328, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=329, feature= 4, thr= 99.02, gain=0.001854
+
+tree= 1, node=330, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=331, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=332, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=333, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=334, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=335, feature= 2, thr= 79.39, gain=0.158725
+
+tree= 1, node=336, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=337, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=338, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=339, feature=10, thr= 70.51, gain=0.236502
+
+tree= 1, node=340, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=341, feature=12, thr= 39.02, gain=0.465988
+
+tree= 1, node=342, feature= 5, thr= 87.27, gain=0.286194
+
+tree= 1, node=343, feature=14, thr= 34.18, gain=0.071759
+
+tree= 1, node=344, feature=12, thr= 40.18, gain=0.150856
+
+tree= 1, node=345, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=346, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=347, feature=11, thr= 78.22, gain=0.034339
+
+tree= 1, node=348, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=349, feature= 4, thr= 83.80, gain=0.019635
+
+tree= 1, node=350, feature=12, thr= 38.18, gain=0.066780
+
+tree= 1, node=351, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=352, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=353, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=354, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=355, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=356, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=357, feature=15, thr=100.00, gain=0.000000
+
+tree= 1, node=358, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=359, feature= 2, thr= 89.55, gain=0.102864
+
+tree= 1, node=360, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=361, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=362, feature=14, thr=  8.63, gain=0.309543
+
+tree= 1, node=363, feature= 6, thr= 74.67, gain=0.031076
+
+tree= 1, node=364, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=365, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=366, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=367, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=368, feature=10, thr= 46.27, gain=0.145415
+
+tree= 1, node=369, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=370, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=371, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=372, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=373, feature= 8, thr= 75.47, gain=0.160823
+
+tree= 1, node=374, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=375, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=376, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=377, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=378, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=379, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=380, feature=11, thr= 47.55, gain=0.085241
+
+tree= 1, node=381, feature=12, thr= 37.10, gain=0.153059
+
+tree= 1, node=382, feature= 3, thr=  3.92, gain=0.144118
+
+tree= 1, node=383, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=384, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=385, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=386, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=387, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=388, feature=16, thr=  0.18, gain=0.005893
+
+tree= 1, node=389, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=390, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=391, feature=13, thr= 38.24, gain=0.045182
+
+tree= 1, node=392, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=393, feature= 9, thr= 34.71, gain=0.169455
+
+tree= 1, node=394, feature=10, thr=  1.29, gain=0.156962
+
+tree= 1, node=395, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=396, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=397, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=398, feature=12, thr= 19.22, gain=0.336048
+
+tree= 1, node=399, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=400, feature= 7, thr= 72.06, gain=0.149933
+
+tree= 1, node=401, feature= 7, thr= 98.86, gain=0.133040
+
+tree= 1, node=402, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=403, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=404, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=405, feature=12, thr= 43.12, gain=0.198541
+
+tree= 1, node=406, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=407, feature=15, thr= 31.35, gain=0.078441
+
+tree= 1, node=408, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=409, feature= 1, thr=  0.00, gain=0.000000
+
+tree= 1, node=410, feature=15, thr= 45.55, gain=0.162108
+
+tree= 1, node=411, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=412, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=413, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=414, feature= 2, thr= 74.71, gain=0.040863
+
+tree= 1, node=415, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=416, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=417, feature=13, thr= 38.14, gain=0.106085
+
+tree= 1, node=418, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=419, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=420, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=421, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=422, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=423, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=424, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=425, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=426, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=427, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=428, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=429, feature=14, thr= 27.41, gain=0.018360
+
+tree= 1, node=430, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=431, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=432, feature= 4, thr= 99.02, gain=0.002167
+
+tree= 1, node=433, feature= 7, thr= 43.67, gain=0.012785
+
+tree= 1, node=434, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=435, feature= 3, thr= 57.45, gain=0.045922
+
+tree= 1, node=436, feature=15, thr= 44.29, gain=0.015493
+
+tree= 1, node=437, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=438, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=439, feature= 2, thr= 66.16, gain=0.022728
+
+tree= 1, node=440, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=441, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=442, feature=15, thr=100.00, gain=0.000000
+
+tree= 1, node=443, feature=10, thr= 16.12, gain=0.095303
+
+tree= 1, node=444, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=445, feature= 4, thr= 81.71, gain=0.191433
+
+tree= 1, node=446, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=447, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=448, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=449, feature= 7, thr= 50.47, gain=0.011367
+
+tree= 1, node=450, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=451, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=452, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=453, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=454, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 1, node=455, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=  1, feature=13, thr= 68.63, gain=0.167442
+
+tree= 2, node=  2, feature= 8, thr= 45.10, gain=0.439345
+
+tree= 2, node=  3, feature=16, thr=  9.80, gain=0.893777
+
+tree= 2, node=  4, feature= 8, thr= 13.24, gain=0.486570
+
+tree= 2, node=  5, feature=10, thr= 56.86, gain=0.409372
+
+tree= 2, node=  6, feature= 7, thr= 72.55, gain=0.377675
+
+tree= 2, node=  7, feature=13, thr= 99.39, gain=0.153648
+
+tree= 2, node=  8, feature= 4, thr= 68.71, gain=0.237845
+
+tree= 2, node=  9, feature= 8, thr= 30.41, gain=0.186666
+
+tree= 2, node= 10, feature= 9, thr= 58.82, gain=0.395988
+
+tree= 2, node= 11, feature=16, thr=  1.45, gain=0.223686
+
+tree= 2, node= 12, feature= 5, thr= 31.37, gain=0.468959
+
+tree= 2, node= 13, feature= 5, thr= 43.14, gain=0.635210
+
+tree= 2, node= 14, feature= 8, thr= 11.76, gain=0.579754
+
+tree= 2, node= 15, feature= 7, thr= 21.57, gain=0.264458
+
+tree= 2, node= 16, feature=13, thr= 60.00, gain=0.104107
+
+tree= 2, node= 17, feature=14, thr= 58.82, gain=0.984210
+
+tree= 2, node= 18, feature= 6, thr= 43.41, gain=0.544053
+
+tree= 2, node= 19, feature= 2, thr= 84.78, gain=0.417424
+
+tree= 2, node= 20, feature=16, thr= 20.47, gain=0.622517
+
+tree= 2, node= 21, feature=12, thr=  1.71, gain=0.415163
+
+tree= 2, node= 22, feature= 6, thr= 69.25, gain=0.411092
+
+tree= 2, node= 23, feature=16, thr= 17.53, gain=0.088829
+
+tree= 2, node= 24, feature=13, thr= 87.24, gain=0.016150
+
+tree= 2, node= 25, feature= 1, thr=  1.96, gain=0.365049
+
+tree= 2, node= 26, feature=15, thr= 15.69, gain=0.184082
+
+tree= 2, node= 27, feature= 4, thr= 85.10, gain=0.380146
+
+tree= 2, node= 28, feature= 5, thr= 27.45, gain=0.836071
+
+tree= 2, node= 29, feature=11, thr= 49.02, gain=0.386862
+
+tree= 2, node= 30, feature= 4, thr= 76.71, gain=0.553529
+
+tree= 2, node= 31, feature= 2, thr= 86.41, gain=0.033529
+
+tree= 2, node= 32, feature= 6, thr= 23.65, gain=0.566900
+
+tree= 2, node= 33, feature= 6, thr= 12.67, gain=0.083879
+
+tree= 2, node= 34, feature= 1, thr= 13.73, gain=0.433488
+
+tree= 2, node= 35, feature= 1, thr= 70.59, gain=0.108114
+
+tree= 2, node= 36, feature= 8, thr= 24.04, gain=0.105286
+
+tree= 2, node= 37, feature=15, thr= 39.22, gain=0.826865
+
+tree= 2, node= 38, feature= 6, thr= 62.75, gain=0.195414
+
+tree= 2, node= 39, feature= 1, thr= 33.33, gain=0.666040
+
+tree= 2, node= 40, feature=10, thr= 38.43, gain=0.366842
+
+tree= 2, node= 41, feature=10, thr= 37.33, gain=0.190145
+
+tree= 2, node= 42, feature=11, thr= 29.41, gain=0.369930
+
+tree= 2, node= 43, feature= 5, thr= 56.86, gain=0.381862
+
+tree= 2, node= 44, feature=16, thr=  0.02, gain=0.020792
+
+tree= 2, node= 45, feature=16, thr=  0.02, gain=0.021420
+
+tree= 2, node= 46, feature=10, thr= 60.37, gain=0.219817
+
+tree= 2, node= 47, feature= 5, thr= 63.49, gain=0.068233
+
+tree= 2, node= 48, feature=16, thr=  0.18, gain=0.185563
+
+tree= 2, node= 49, feature= 9, thr= 60.78, gain=0.097366
+
+tree= 2, node= 50, feature= 3, thr= 29.71, gain=0.308577
+
+tree= 2, node= 51, feature= 3, thr= 68.63, gain=0.201767
+
+tree= 2, node= 52, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 53, feature=12, thr= 54.00, gain=0.249474
+
+tree= 2, node= 54, feature= 6, thr= 71.00, gain=0.123865
+
+tree= 2, node= 55, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 56, feature= 5, thr= 22.43, gain=0.020615
+
+tree= 2, node= 57, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 58, feature= 8, thr= 60.31, gain=0.395049
+
+tree= 2, node= 59, feature= 5, thr= 52.94, gain=0.660075
+
+tree= 2, node= 60, feature= 4, thr= 66.12, gain=0.122226
+
+tree= 2, node= 61, feature= 3, thr= 30.65, gain=0.257454
+
+tree= 2, node= 62, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 63, feature= 5, thr= 74.51, gain=0.174077
+
+tree= 2, node= 64, feature=12, thr= 74.67, gain=0.070929
+
+tree= 2, node= 65, feature= 8, thr=  0.25, gain=0.003756
+
+tree= 2, node= 66, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 67, feature= 2, thr= 88.24, gain=0.299379
+
+tree= 2, node= 68, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 69, feature= 4, thr= 94.53, gain=0.376997
+
+tree= 2, node= 70, feature=12, thr= 63.47, gain=0.156312
+
+tree= 2, node= 71, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 72, feature= 7, thr= 64.71, gain=0.536482
+
+tree= 2, node= 73, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 74, feature=15, thr= 21.41, gain=0.045590
+
+tree= 2, node= 75, feature= 5, thr= 37.25, gain=0.408514
+
+tree= 2, node= 76, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 77, feature= 2, thr= 75.59, gain=0.155515
+
+tree= 2, node= 78, feature=14, thr= 20.08, gain=0.502288
+
+tree= 2, node= 79, feature= 3, thr= 52.94, gain=0.611657
+
+tree= 2, node= 80, feature= 8, thr= 56.12, gain=0.088462
+
+tree= 2, node= 81, feature= 3, thr= 52.94, gain=0.373653
+
+tree= 2, node= 82, feature=14, thr= 26.96, gain=0.253621
+
+tree= 2, node= 83, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 84, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 85, feature= 6, thr= 99.25, gain=0.205388
+
+tree= 2, node= 86, feature= 9, thr= 79.61, gain=0.195489
+
+tree= 2, node= 87, feature= 6, thr= 99.22, gain=0.170211
+
+tree= 2, node= 88, feature= 9, thr= 98.76, gain=0.159767
+
+tree= 2, node= 89, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 90, feature=16, thr=  0.00, gain=0.000000
+
+tree= 2, node= 91, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 92, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 93, feature= 5, thr= 94.12, gain=0.066515
+
+tree= 2, node= 94, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 95, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 96, feature=16, thr=  0.00, gain=0.000000
+
+tree= 2, node= 97, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node= 98, feature=13, thr= 98.12, gain=0.060989
+
+tree= 2, node= 99, feature= 8, thr= 48.33, gain=0.478964
+
+tree= 2, node=100, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=101, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=102, feature= 6, thr= 81.37, gain=0.155624
+
+tree= 2, node=103, feature=12, thr= 50.78, gain=0.373591
+
+tree= 2, node=104, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=105, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=106, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=107, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=108, feature=13, thr= 79.59, gain=0.010467
+
+tree= 2, node=109, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=110, feature= 1, thr= 43.14, gain=0.721088
+
+tree= 2, node=111, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=112, feature=14, thr= 49.02, gain=0.457432
+
+tree= 2, node=113, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=114, feature= 3, thr= 23.06, gain=0.092643
+
+tree= 2, node=115, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=116, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=117, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=118, feature= 3, thr=  4.08, gain=0.013647
+
+tree= 2, node=119, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=120, feature=14, thr= 96.33, gain=0.443839
+
+tree= 2, node=121, feature= 3, thr= 25.49, gain=0.279755
+
+tree= 2, node=122, feature= 3, thr=  8.24, gain=0.028875
+
+tree= 2, node=123, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=124, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=125, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=126, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=127, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=128, feature=12, thr= 37.27, gain=0.147125
+
+tree= 2, node=129, feature= 5, thr= 18.43, gain=0.951763
+
+tree= 2, node=130, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=131, feature= 6, thr=  0.55, gain=0.190146
+
+tree= 2, node=132, feature= 8, thr= 26.24, gain=0.031146
+
+tree= 2, node=133, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=134, feature= 5, thr= 14.51, gain=0.375822
+
+tree= 2, node=135, feature=14, thr= 29.41, gain=0.825265
+
+tree= 2, node=136, feature=15, thr= 92.16, gain=0.182103
+
+tree= 2, node=137, feature=12, thr= 14.71, gain=0.073048
+
+tree= 2, node=138, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=139, feature= 7, thr= 49.18, gain=0.039292
+
+tree= 2, node=140, feature=10, thr= 17.65, gain=0.836758
+
+tree= 2, node=141, feature= 1, thr= 63.76, gain=0.619569
+
+tree= 2, node=142, feature=13, thr= 54.67, gain=0.052682
+
+tree= 2, node=143, feature=16, thr=  3.24, gain=0.067083
+
+tree= 2, node=144, feature=14, thr=  6.33, gain=0.257126
+
+tree= 2, node=145, feature= 9, thr= 30.71, gain=0.174660
+
+tree= 2, node=146, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=147, feature=16, thr= 54.06, gain=0.456296
+
+tree= 2, node=148, feature= 2, thr= 79.29, gain=0.220188
+
+tree= 2, node=149, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=150, feature= 3, thr= 43.14, gain=0.526358
+
+tree= 2, node=151, feature= 3, thr= 43.75, gain=0.187409
+
+tree= 2, node=152, feature= 9, thr= 71.06, gain=0.078952
+
+tree= 2, node=153, feature= 8, thr= 80.41, gain=0.168082
+
+tree= 2, node=154, feature=13, thr= 33.29, gain=0.208480
+
+tree= 2, node=155, feature=15, thr=  1.69, gain=0.264101
+
+tree= 2, node=156, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=157, feature= 6, thr= 92.35, gain=0.193541
+
+tree= 2, node=158, feature= 1, thr= 78.43, gain=0.044268
+
+tree= 2, node=159, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=160, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=161, feature= 3, thr= 42.84, gain=0.242295
+
+tree= 2, node=162, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=163, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=164, feature= 6, thr= 66.63, gain=0.090544
+
+tree= 2, node=165, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=166, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=167, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=168, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=169, feature=16, thr=  0.00, gain=0.000000
+
+tree= 2, node=170, feature=10, thr= 10.59, gain=0.051072
+
+tree= 2, node=171, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=172, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=173, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=174, feature=10, thr= 16.08, gain=0.141441
+
+tree= 2, node=175, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=176, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=177, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=178, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=179, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=180, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=181, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=182, feature= 2, thr= 72.49, gain=0.014627
+
+tree= 2, node=183, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=184, feature= 4, thr= 65.41, gain=0.152707
+
+tree= 2, node=185, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=186, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=187, feature=15, thr= 27.45, gain=0.795040
+
+tree= 2, node=188, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=189, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=190, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=191, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=192, feature= 4, thr= 91.22, gain=0.084903
+
+tree= 2, node=193, feature= 7, thr= 39.22, gain=0.591673
+
+tree= 2, node=194, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=195, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=196, feature= 6, thr= 65.18, gain=0.131127
+
+tree= 2, node=197, feature= 7, thr= 61.76, gain=0.700735
+
+tree= 2, node=198, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=199, feature=15, thr= 99.04, gain=0.016029
+
+tree= 2, node=200, feature=12, thr=  6.04, gain=0.051351
+
+tree= 2, node=201, feature=16, thr= 19.61, gain=0.948613
+
+tree= 2, node=202, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=203, feature= 1, thr=  8.41, gain=0.187540
+
+tree= 2, node=204, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=205, feature=13, thr= 57.41, gain=0.036792
+
+tree= 2, node=206, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=207, feature=16, thr=  1.00, gain=0.272336
+
+tree= 2, node=208, feature= 3, thr= 64.71, gain=0.064986
+
+tree= 2, node=209, feature=15, thr= 17.65, gain=0.326259
+
+tree= 2, node=210, feature=13, thr= 51.24, gain=0.127833
+
+tree= 2, node=211, feature= 9, thr= 44.20, gain=0.149872
+
+tree= 2, node=212, feature= 2, thr= 51.14, gain=0.319552
+
+tree= 2, node=213, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=214, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=215, feature=12, thr= 25.55, gain=0.123549
+
+tree= 2, node=216, feature=16, thr= 27.53, gain=0.067167
+
+tree= 2, node=217, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=218, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=219, feature= 7, thr= 53.06, gain=0.232928
+
+tree= 2, node=220, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=221, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=222, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=223, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=224, feature= 9, thr= 62.06, gain=0.087706
+
+tree= 2, node=225, feature=14, thr= 14.43, gain=0.050752
+
+tree= 2, node=226, feature= 1, thr= 49.41, gain=0.122196
+
+tree= 2, node=227, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=228, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=229, feature=10, thr= 99.20, gain=0.143329
+
+tree= 2, node=230, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=231, feature= 6, thr= 60.53, gain=0.219268
+
+tree= 2, node=232, feature= 2, thr= 62.47, gain=0.831857
+
+tree= 2, node=233, feature= 4, thr= 91.18, gain=0.750969
+
+tree= 2, node=234, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=235, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=236, feature= 9, thr= 39.22, gain=0.056178
+
+tree= 2, node=237, feature=11, thr= 69.61, gain=0.085743
+
+tree= 2, node=238, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=239, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=240, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=241, feature= 7, thr=  0.75, gain=0.016630
+
+tree= 2, node=242, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=243, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=244, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=245, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=246, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=247, feature= 4, thr= 43.55, gain=0.035801
+
+tree= 2, node=248, feature=10, thr= 17.94, gain=0.015417
+
+tree= 2, node=249, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=250, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=251, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=252, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=253, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=254, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=255, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=256, feature= 9, thr= 15.65, gain=0.292781
+
+tree= 2, node=257, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=258, feature= 1, thr= 48.94, gain=0.120681
+
+tree= 2, node=259, feature= 9, thr= 28.59, gain=0.404286
+
+tree= 2, node=260, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=261, feature= 7, thr= 63.53, gain=0.055071
+
+tree= 2, node=262, feature= 8, thr= 40.16, gain=0.170462
+
+tree= 2, node=263, feature=12, thr= 13.04, gain=0.060231
+
+tree= 2, node=264, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=265, feature= 6, thr= 72.20, gain=0.309102
+
+tree= 2, node=266, feature= 9, thr= 86.51, gain=0.040370
+
+tree= 2, node=267, feature=12, thr= 37.25, gain=0.975119
+
+tree= 2, node=268, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=269, feature=10, thr= 72.47, gain=0.210842
+
+tree= 2, node=270, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=271, feature= 6, thr= 72.41, gain=0.153159
+
+tree= 2, node=272, feature=13, thr= 40.59, gain=0.072289
+
+tree= 2, node=273, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=274, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=275, feature= 7, thr= 58.27, gain=0.040857
+
+tree= 2, node=276, feature= 5, thr= 62.12, gain=0.325756
+
+tree= 2, node=277, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=278, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=279, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=280, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=281, feature=14, thr=  0.12, gain=0.039916
+
+tree= 2, node=282, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=283, feature= 4, thr= 99.12, gain=0.248452
+
+tree= 2, node=284, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=285, feature= 7, thr= 37.06, gain=0.091402
+
+tree= 2, node=286, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=287, feature= 7, thr= 97.25, gain=0.034364
+
+tree= 2, node=288, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=289, feature= 6, thr= 90.29, gain=0.245014
+
+tree= 2, node=290, feature=12, thr= 19.41, gain=0.028261
+
+tree= 2, node=291, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=292, feature= 3, thr= 58.67, gain=0.422056
+
+tree= 2, node=293, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=294, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=295, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=296, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=297, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=298, feature=10, thr= 90.33, gain=0.018485
+
+tree= 2, node=299, feature= 1, thr=  7.84, gain=0.275615
+
+tree= 2, node=300, feature=11, thr= 75.84, gain=0.445944
+
+tree= 2, node=301, feature= 7, thr= 72.55, gain=0.935470
+
+tree= 2, node=302, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=303, feature= 7, thr= 35.29, gain=0.048392
+
+tree= 2, node=304, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=305, feature= 6, thr= 62.25, gain=0.574170
+
+tree= 2, node=306, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=307, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=308, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=309, feature= 1, thr= 23.53, gain=0.040400
+
+tree= 2, node=310, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=311, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=312, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=313, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=314, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=315, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=316, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=317, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=318, feature= 2, thr= 74.18, gain=0.017424
+
+tree= 2, node=319, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=320, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=321, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=322, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=323, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=324, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=325, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=326, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=327, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=328, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=329, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=330, feature= 2, thr= 96.12, gain=0.091175
+
+tree= 2, node=331, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=332, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=333, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=334, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=335, feature=12, thr=  8.24, gain=0.064820
+
+tree= 2, node=336, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=337, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=338, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=339, feature= 8, thr= 63.33, gain=0.091416
+
+tree= 2, node=340, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=341, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=342, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=343, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=344, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=345, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=346, feature=12, thr=  0.02, gain=0.122635
+
+tree= 2, node=347, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=348, feature= 4, thr= 97.18, gain=0.056582
+
+tree= 2, node=349, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=350, feature= 1, thr= 66.67, gain=0.139873
+
+tree= 2, node=351, feature= 5, thr= 63.75, gain=0.126911
+
+tree= 2, node=352, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=353, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=354, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=355, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=356, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=357, feature= 8, thr= 60.78, gain=0.082199
+
+tree= 2, node=358, feature= 8, thr= 90.12, gain=0.063977
+
+tree= 2, node=359, feature= 8, thr= 98.29, gain=0.063720
+
+tree= 2, node=360, feature=12, thr= 48.41, gain=0.258343
+
+tree= 2, node=361, feature= 5, thr= 85.53, gain=0.289424
+
+tree= 2, node=362, feature=12, thr= 56.84, gain=0.013246
+
+tree= 2, node=363, feature= 2, thr= 93.69, gain=0.433019
+
+tree= 2, node=364, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=365, feature= 7, thr=  1.24, gain=0.160988
+
+tree= 2, node=366, feature= 7, thr= 18.55, gain=0.676942
+
+tree= 2, node=367, feature=16, thr= 92.55, gain=0.230710
+
+tree= 2, node=368, feature=11, thr=  7.65, gain=0.072805
+
+tree= 2, node=369, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=370, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=371, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=372, feature= 3, thr= 35.14, gain=0.019267
+
+tree= 2, node=373, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=374, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=375, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=376, feature= 8, thr= 57.24, gain=0.074431
+
+tree= 2, node=377, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=378, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=379, feature= 4, thr=100.00, gain=0.000000
+
+tree= 2, node=380, feature=14, thr=  0.18, gain=0.002453
+
+tree= 2, node=381, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=382, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=383, feature= 9, thr= 94.51, gain=0.061605
+
+tree= 2, node=384, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=385, feature= 8, thr= 73.18, gain=0.046697
+
+tree= 2, node=386, feature=14, thr= 18.29, gain=0.033224
+
+tree= 2, node=387, feature=15, thr= 41.18, gain=0.057525
+
+tree= 2, node=388, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=389, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=390, feature=14, thr= 17.25, gain=0.265205
+
+tree= 2, node=391, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=392, feature=16, thr=  0.00, gain=0.000000
+
+tree= 2, node=393, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=394, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=395, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=396, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=397, feature=15, thr= 42.16, gain=0.072537
+
+tree= 2, node=398, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=399, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=400, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=401, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=402, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=403, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=404, feature= 5, thr= 34.90, gain=0.756801
+
+tree= 2, node=405, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=406, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=407, feature= 1, thr= 35.14, gain=0.140616
+
+tree= 2, node=408, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=409, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=410, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=411, feature=15, thr= 17.65, gain=0.127419
+
+tree= 2, node=412, feature=16, thr=  6.25, gain=0.019651
+
+tree= 2, node=413, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=414, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=415, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=416, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=417, feature= 8, thr= 92.35, gain=0.022723
+
+tree= 2, node=418, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=419, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=420, feature=13, thr= 60.73, gain=0.088482
+
+tree= 2, node=421, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=422, feature=15, thr=  0.10, gain=0.007304
+
+tree= 2, node=423, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=424, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=425, feature= 4, thr= 94.04, gain=0.114276
+
+tree= 2, node=426, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=427, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=428, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=429, feature=16, thr=  4.10, gain=0.226939
+
+tree= 2, node=430, feature= 6, thr= 85.18, gain=0.595210
+
+tree= 2, node=431, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=432, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=433, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=434, feature= 3, thr= 84.90, gain=0.121840
+
+tree= 2, node=435, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=436, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=437, feature=16, thr=  0.00, gain=0.000000
+
+tree= 2, node=438, feature= 2, thr= 63.80, gain=0.141919
+
+tree= 2, node=439, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=440, feature=12, thr= 31.53, gain=0.053783
+
+tree= 2, node=441, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=442, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=443, feature=13, thr= 45.14, gain=0.038683
+
+tree= 2, node=444, feature=13, thr= 49.27, gain=0.025913
+
+tree= 2, node=445, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=446, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=447, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=448, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=449, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=450, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=451, feature=11, thr= 67.06, gain=0.031975
+
+tree= 2, node=452, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=453, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=454, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=455, feature=14, thr=  4.33, gain=0.044207
+
+tree= 2, node=456, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=457, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=458, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=459, feature=13, thr= 50.18, gain=0.034070
+
+tree= 2, node=460, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=461, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=462, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=463, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=464, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 2, node=465, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=  1, feature=15, thr= 49.02, gain=0.424551
+
+tree= 3, node=  2, feature=15, thr=  2.88, gain=0.208011
+
+tree= 3, node=  3, feature= 2, thr= 98.04, gain=0.403438
+
+tree= 3, node=  4, feature=16, thr= 31.37, gain=0.494525
+
+tree= 3, node=  5, feature=13, thr= 66.67, gain=0.215244
+
+tree= 3, node=  6, feature= 2, thr= 76.86, gain=0.327902
+
+tree= 3, node=  7, feature=14, thr= 54.90, gain=0.558482
+
+tree= 3, node=  8, feature= 8, thr= 43.14, gain=0.560524
+
+tree= 3, node=  9, feature=15, thr=  0.04, gain=0.007485
+
+tree= 3, node= 10, feature= 9, thr= 74.51, gain=0.495481
+
+tree= 3, node= 11, feature= 1, thr=  1.96, gain=0.318191
+
+tree= 3, node= 12, feature= 9, thr= 43.14, gain=0.398278
+
+tree= 3, node= 13, feature=13, thr= 60.78, gain=0.253602
+
+tree= 3, node= 14, feature= 2, thr= 99.02, gain=0.071317
+
+tree= 3, node= 15, feature= 9, thr= 45.10, gain=0.603513
+
+tree= 3, node= 16, feature=14, thr= 48.33, gain=0.321420
+
+tree= 3, node= 17, feature= 8, thr= 76.94, gain=0.388308
+
+tree= 3, node= 18, feature= 1, thr= 68.63, gain=0.347977
+
+tree= 3, node= 19, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 20, feature=16, thr=  1.96, gain=0.428017
+
+tree= 3, node= 21, feature= 8, thr= 25.49, gain=0.859781
+
+tree= 3, node= 22, feature=14, thr= 15.69, gain=0.732662
+
+tree= 3, node= 23, feature= 1, thr= 73.10, gain=0.225293
+
+tree= 3, node= 24, feature= 4, thr= 86.86, gain=0.549481
+
+tree= 3, node= 25, feature=10, thr= 56.86, gain=0.469684
+
+tree= 3, node= 26, feature=12, thr= 40.35, gain=0.757484
+
+tree= 3, node= 27, feature= 3, thr= 20.59, gain=0.155142
+
+tree= 3, node= 28, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 29, feature=13, thr= 54.90, gain=0.537311
+
+tree= 3, node= 30, feature=11, thr= 30.59, gain=0.139391
+
+tree= 3, node= 31, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 32, feature= 2, thr= 97.71, gain=0.202636
+
+tree= 3, node= 33, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 34, feature= 1, thr= 70.59, gain=0.413648
+
+tree= 3, node= 35, feature=13, thr= 25.35, gain=0.361575
+
+tree= 3, node= 36, feature= 9, thr= 86.27, gain=0.941646
+
+tree= 3, node= 37, feature=10, thr=  6.75, gain=0.638629
+
+tree= 3, node= 38, feature= 5, thr= 35.29, gain=0.636257
+
+tree= 3, node= 39, feature= 4, thr= 98.61, gain=0.224103
+
+tree= 3, node= 40, feature=13, thr= 41.41, gain=0.056003
+
+tree= 3, node= 41, feature= 7, thr= 90.20, gain=0.606950
+
+tree= 3, node= 42, feature= 3, thr= 52.10, gain=0.333954
+
+tree= 3, node= 43, feature= 7, thr= 59.24, gain=0.381236
+
+tree= 3, node= 44, feature= 1, thr= 45.16, gain=0.085708
+
+tree= 3, node= 45, feature=12, thr= 18.43, gain=0.864440
+
+tree= 3, node= 46, feature=10, thr= 45.37, gain=0.794839
+
+tree= 3, node= 47, feature= 8, thr= 38.65, gain=0.029576
+
+tree= 3, node= 48, feature= 1, thr= 37.25, gain=0.450264
+
+tree= 3, node= 49, feature= 6, thr= 43.73, gain=0.210315
+
+tree= 3, node= 50, feature=11, thr= 23.88, gain=0.242999
+
+tree= 3, node= 51, feature=14, thr= 65.49, gain=0.280894
+
+tree= 3, node= 52, feature= 6, thr= 64.61, gain=0.667166
+
+tree= 3, node= 53, feature= 4, thr= 88.82, gain=0.353083
+
+tree= 3, node= 54, feature= 3, thr= 25.49, gain=0.585433
+
+tree= 3, node= 55, feature= 4, thr= 85.57, gain=0.084648
+
+tree= 3, node= 56, feature=12, thr= 43.06, gain=0.608909
+
+tree= 3, node= 57, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 58, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 59, feature=12, thr= 41.76, gain=0.072276
+
+tree= 3, node= 60, feature=15, thr=  0.04, gain=0.012413
+
+tree= 3, node= 61, feature=12, thr= 28.63, gain=0.360434
+
+tree= 3, node= 62, feature=15, thr=  0.00, gain=0.000000
+
+tree= 3, node= 63, feature= 3, thr= 80.39, gain=0.352837
+
+tree= 3, node= 64, feature= 7, thr= 52.94, gain=0.172487
+
+tree= 3, node= 65, feature=11, thr= 95.69, gain=0.052922
+
+tree= 3, node= 66, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 67, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 68, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 69, feature= 6, thr= 89.41, gain=0.130219
+
+tree= 3, node= 70, feature= 8, thr= 52.94, gain=0.423177
+
+tree= 3, node= 71, feature= 9, thr= 50.10, gain=0.626272
+
+tree= 3, node= 72, feature= 5, thr=  1.12, gain=0.315317
+
+tree= 3, node= 73, feature= 6, thr= 35.00, gain=0.053058
+
+tree= 3, node= 74, feature=10, thr= 78.43, gain=0.308214
+
+tree= 3, node= 75, feature= 9, thr= 88.24, gain=0.141469
+
+tree= 3, node= 76, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 77, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 78, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 79, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 80, feature= 7, thr= 19.61, gain=0.270065
+
+tree= 3, node= 81, feature= 7, thr=  5.88, gain=0.390252
+
+tree= 3, node= 82, feature=12, thr=  0.35, gain=0.022617
+
+tree= 3, node= 83, feature= 8, thr= 43.14, gain=0.794804
+
+tree= 3, node= 84, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 85, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 86, feature=16, thr= 35.29, gain=0.458513
+
+tree= 3, node= 87, feature= 7, thr= 60.35, gain=0.098930
+
+tree= 3, node= 88, feature= 9, thr= 61.57, gain=0.208385
+
+tree= 3, node= 89, feature= 9, thr= 59.37, gain=0.266673
+
+tree= 3, node= 90, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 91, feature= 2, thr= 61.10, gain=0.178619
+
+tree= 3, node= 92, feature=15, thr= 92.31, gain=0.050494
+
+tree= 3, node= 93, feature= 7, thr= 45.61, gain=0.092237
+
+tree= 3, node= 94, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 95, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 96, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 97, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 98, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node= 99, feature=16, thr= 33.33, gain=0.548186
+
+tree= 3, node=100, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=101, feature=11, thr=  1.31, gain=0.135260
+
+tree= 3, node=102, feature= 2, thr=100.00, gain=0.000000
+
+tree= 3, node=103, feature= 7, thr= 49.02, gain=0.295438
+
+tree= 3, node=104, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=105, feature=10, thr= 16.76, gain=0.013551
+
+tree= 3, node=106, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=107, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=108, feature=10, thr= 59.41, gain=0.253449
+
+tree= 3, node=109, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=110, feature= 6, thr= 72.47, gain=0.133476
+
+tree= 3, node=111, feature=15, thr=  0.04, gain=0.017396
+
+tree= 3, node=112, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=113, feature=10, thr= 78.10, gain=0.369121
+
+tree= 3, node=114, feature= 9, thr= 54.90, gain=0.235782
+
+tree= 3, node=115, feature=15, thr=  1.02, gain=0.025374
+
+tree= 3, node=116, feature= 4, thr= 68.08, gain=0.297153
+
+tree= 3, node=117, feature= 1, thr= 35.47, gain=0.134624
+
+tree= 3, node=118, feature= 4, thr= 78.43, gain=0.060122
+
+tree= 3, node=119, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=120, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=121, feature=15, thr= 18.53, gain=0.309344
+
+tree= 3, node=122, feature=12, thr= 25.49, gain=0.270123
+
+tree= 3, node=123, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=124, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=125, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=126, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=127, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=128, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=129, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=130, feature=15, thr= 16.53, gain=0.288767
+
+tree= 3, node=131, feature= 4, thr= 65.73, gain=0.430498
+
+tree= 3, node=132, feature= 3, thr= 28.55, gain=0.206247
+
+tree= 3, node=133, feature= 8, thr= 75.29, gain=0.780249
+
+tree= 3, node=134, feature= 9, thr= 57.65, gain=0.442371
+
+tree= 3, node=135, feature=14, thr= 41.18, gain=0.421534
+
+tree= 3, node=136, feature=12, thr= 25.41, gain=0.917810
+
+tree= 3, node=137, feature= 9, thr= 39.22, gain=0.812941
+
+tree= 3, node=138, feature=13, thr= 71.53, gain=0.042262
+
+tree= 3, node=139, feature= 3, thr= 19.53, gain=0.142573
+
+tree= 3, node=140, feature=13, thr= 97.49, gain=0.424572
+
+tree= 3, node=141, feature= 9, thr= 62.75, gain=0.407981
+
+tree= 3, node=142, feature= 3, thr= 65.90, gain=0.126657
+
+tree= 3, node=143, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=144, feature= 5, thr= 52.35, gain=0.122861
+
+tree= 3, node=145, feature=10, thr= 20.18, gain=0.029060
+
+tree= 3, node=146, feature= 8, thr= 68.31, gain=0.235094
+
+tree= 3, node=147, feature=10, thr=  6.59, gain=0.216568
+
+tree= 3, node=148, feature= 6, thr= 76.53, gain=0.236295
+
+tree= 3, node=149, feature= 7, thr= 78.43, gain=0.167954
+
+tree= 3, node=150, feature=16, thr=  0.18, gain=0.000128
+
+tree= 3, node=151, feature=14, thr= 25.27, gain=0.514675
+
+tree= 3, node=152, feature= 1, thr= 52.94, gain=0.629262
+
+tree= 3, node=153, feature= 9, thr= 49.02, gain=0.160817
+
+tree= 3, node=154, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=155, feature=10, thr= 37.69, gain=0.207875
+
+tree= 3, node=156, feature=12, thr= 35.29, gain=0.677902
+
+tree= 3, node=157, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=158, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=159, feature= 5, thr= 83.37, gain=0.093350
+
+tree= 3, node=160, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=161, feature=12, thr= 21.57, gain=0.075842
+
+tree= 3, node=162, feature=16, thr=  5.47, gain=0.295182
+
+tree= 3, node=163, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=164, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=165, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=166, feature= 1, thr= 35.69, gain=0.046637
+
+tree= 3, node=167, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=168, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=169, feature= 7, thr= 60.00, gain=0.502977
+
+tree= 3, node=170, feature=11, thr= 47.06, gain=0.749595
+
+tree= 3, node=171, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=172, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=173, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=174, feature=12, thr= 48.18, gain=0.791709
+
+tree= 3, node=175, feature=13, thr= 32.08, gain=0.061615
+
+tree= 3, node=176, feature=10, thr= 66.53, gain=0.205558
+
+tree= 3, node=177, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=178, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=179, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=180, feature= 4, thr= 84.31, gain=0.128715
+
+tree= 3, node=181, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=182, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=183, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=184, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=185, feature= 6, thr= 91.18, gain=0.125491
+
+tree= 3, node=186, feature=15, thr= 29.47, gain=0.103180
+
+tree= 3, node=187, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=188, feature= 4, thr= 91.27, gain=0.885003
+
+tree= 3, node=189, feature= 2, thr= 94.51, gain=0.266672
+
+tree= 3, node=190, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=191, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=192, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=193, feature=11, thr= 73.25, gain=0.090544
+
+tree= 3, node=194, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=195, feature= 1, thr=  1.53, gain=0.176728
+
+tree= 3, node=196, feature= 4, thr= 71.59, gain=0.656702
+
+tree= 3, node=197, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=198, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=199, feature= 6, thr= 34.82, gain=0.224185
+
+tree= 3, node=200, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=201, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=202, feature= 4, thr= 72.65, gain=0.038633
+
+tree= 3, node=203, feature= 7, thr= 41.02, gain=0.135334
+
+tree= 3, node=204, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=205, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=206, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=207, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=208, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=209, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=210, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=211, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=212, feature= 3, thr= 55.43, gain=0.035609
+
+tree= 3, node=213, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=214, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=215, feature=14, thr= 20.12, gain=0.074704
+
+tree= 3, node=216, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=217, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=218, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=219, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=220, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=221, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=222, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=223, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=224, feature= 7, thr=  1.51, gain=0.104419
+
+tree= 3, node=225, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=226, feature=12, thr= 56.80, gain=0.012935
+
+tree= 3, node=227, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=228, feature= 2, thr= 70.24, gain=0.114429
+
+tree= 3, node=229, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=230, feature=16, thr= 10.06, gain=0.835407
+
+tree= 3, node=231, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=232, feature= 5, thr= 33.33, gain=0.253488
+
+tree= 3, node=233, feature= 2, thr= 84.41, gain=0.273089
+
+tree= 3, node=234, feature= 5, thr= 79.71, gain=0.019142
+
+tree= 3, node=235, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=236, feature= 7, thr=  3.92, gain=0.188572
+
+tree= 3, node=237, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=238, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=239, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=240, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=241, feature=15, thr= 58.82, gain=0.006762
+
+tree= 3, node=242, feature=12, thr= 18.55, gain=0.391244
+
+tree= 3, node=243, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=244, feature= 7, thr= 22.59, gain=0.142415
+
+tree= 3, node=245, feature= 5, thr= 63.35, gain=0.264222
+
+tree= 3, node=246, feature= 4, thr= 98.06, gain=0.019488
+
+tree= 3, node=247, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=248, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=249, feature=16, thr=  0.24, gain=0.037891
+
+tree= 3, node=250, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=251, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=252, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=253, feature= 2, thr= 64.71, gain=0.211910
+
+tree= 3, node=254, feature=10, thr= 57.43, gain=0.071387
+
+tree= 3, node=255, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=256, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=257, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=258, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=259, feature= 6, thr= 99.04, gain=0.085614
+
+tree= 3, node=260, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=261, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=262, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=263, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=264, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=265, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=266, feature= 2, thr= 81.18, gain=0.271390
+
+tree= 3, node=267, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=268, feature=12, thr= 47.12, gain=0.437251
+
+tree= 3, node=269, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=270, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=271, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=272, feature=14, thr= 94.04, gain=0.028385
+
+tree= 3, node=273, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=274, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=275, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=276, feature= 2, thr= 77.41, gain=0.106614
+
+tree= 3, node=277, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=278, feature=11, thr= 12.49, gain=0.044824
+
+tree= 3, node=279, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=280, feature= 1, thr= 19.22, gain=0.134657
+
+tree= 3, node=281, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=282, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=283, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=284, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=285, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=286, feature=11, thr= 45.31, gain=0.084121
+
+tree= 3, node=287, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=288, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=289, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=290, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=291, feature= 7, thr= 75.16, gain=0.048324
+
+tree= 3, node=292, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=293, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=294, feature=10, thr= 22.59, gain=0.130669
+
+tree= 3, node=295, feature= 8, thr= 55.65, gain=0.034166
+
+tree= 3, node=296, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=297, feature= 6, thr= 88.63, gain=0.068420
+
+tree= 3, node=298, feature=15, thr= 57.06, gain=0.054249
+
+tree= 3, node=299, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=300, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=301, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=302, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=303, feature= 9, thr= 47.04, gain=0.009558
+
+tree= 3, node=304, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=305, feature= 2, thr= 81.14, gain=0.043412
+
+tree= 3, node=306, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=307, feature= 6, thr= 80.41, gain=0.117458
+
+tree= 3, node=308, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=309, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=310, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=311, feature=10, thr= 64.75, gain=0.056555
+
+tree= 3, node=312, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=313, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=314, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=315, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=316, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=317, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=318, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=319, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=320, feature=13, thr= 95.61, gain=0.266765
+
+tree= 3, node=321, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=322, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=323, feature= 4, thr= 72.14, gain=0.073759
+
+tree= 3, node=324, feature=15, thr=100.00, gain=0.000000
+
+tree= 3, node=325, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=326, feature= 1, thr= 13.04, gain=0.031074
+
+tree= 3, node=327, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=328, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=329, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=330, feature=15, thr= 99.04, gain=0.007645
+
+tree= 3, node=331, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=332, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=333, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=334, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=335, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=336, feature= 7, thr= 62.59, gain=0.089703
+
+tree= 3, node=337, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=338, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=339, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=340, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=341, feature= 4, thr= 85.47, gain=0.095254
+
+tree= 3, node=342, feature=10, thr= 46.31, gain=0.087847
+
+tree= 3, node=343, feature= 2, thr= 92.24, gain=0.050364
+
+tree= 3, node=344, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=345, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=346, feature=11, thr= 88.27, gain=0.181982
+
+tree= 3, node=347, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=348, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=349, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=350, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=351, feature=10, thr= 22.10, gain=0.285575
+
+tree= 3, node=352, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=353, feature= 3, thr= 21.65, gain=0.031511
+
+tree= 3, node=354, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=355, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=356, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=357, feature=11, thr=  1.35, gain=0.087918
+
+tree= 3, node=358, feature= 3, thr= 31.00, gain=0.017287
+
+tree= 3, node=359, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=360, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=361, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=362, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=363, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=364, feature= 5, thr= 99.29, gain=0.082732
+
+tree= 3, node=365, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=366, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=367, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=368, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=369, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=370, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=371, feature=13, thr= 49.10, gain=0.021057
+
+tree= 3, node=372, feature=13, thr= 47.22, gain=0.198445
+
+tree= 3, node=373, feature=12, thr= 14.12, gain=0.272440
+
+tree= 3, node=374, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=375, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=376, feature=13, thr= 39.24, gain=0.130171
+
+tree= 3, node=377, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=378, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=379, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=380, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=381, feature= 8, thr= 35.84, gain=0.199473
+
+tree= 3, node=382, feature=15, thr=100.00, gain=0.000000
+
+tree= 3, node=383, feature= 6, thr= 94.29, gain=0.057435
+
+tree= 3, node=384, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=385, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=386, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=387, feature= 8, thr= 44.47, gain=0.012249
+
+tree= 3, node=388, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=389, feature=13, thr= 45.88, gain=0.557855
+
+tree= 3, node=390, feature=10, thr=  0.84, gain=0.518508
+
+tree= 3, node=391, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=392, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=393, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=394, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=395, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=396, feature=10, thr=  0.00, gain=0.000000
+
+tree= 3, node=397, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=398, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=399, feature=11, thr=  3.24, gain=0.051801
+
+tree= 3, node=400, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=401, feature=16, thr= 21.88, gain=0.244765
+
+tree= 3, node=402, feature=-1, thr= -1.00, gain=0.000000
+
+tree= 3, node=403, feature=-1, thr= -1.00, gain=0.000000
+
+classification accuracy=0.8557
+
